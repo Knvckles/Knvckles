@@ -5,3 +5,11 @@
 <p align="center">
 Knuckles the Echidna.
 </p>
+
+<br>
+
+<p>
+  
+  Greetings , thou may address me as Knuckles or Knux . 
+
+</p>
