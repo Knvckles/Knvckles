@@ -3,7 +3,7 @@
 </h3>
 
 <h4 align="center">
-I am Knuckles the Echidna.
+I am Knuckles the Echidna, briefly, thou may call me Knux.
 </h4>
 
 <p align="center">
