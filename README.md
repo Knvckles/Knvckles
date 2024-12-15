@@ -6,8 +6,6 @@
 Knuckles the Echidna.
 </h4>
 
-<hr>
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/73575143-bebc-416c-a945-6d3458454263">
 </p>
