@@ -22,4 +22,4 @@ Angel Island ..
 note : f͟i͟c͟t͟k͟i͟n͟ , a͟l͟t͟e͟r͟ .
 </h6>
 
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=6a040F&style=flat-square$label=_+_)
+![](https://komarev.com/ghpvc/?username=ConsCXius&color=9d3737&style=flat-square&label=_Flickey's_)
