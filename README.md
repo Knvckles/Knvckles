@@ -21,3 +21,5 @@ Angel Island ..
 <h6 align="center">
 note : f͟i͟c͟t͟k͟i͟n͟ , a͟l͟t͟e͟r͟ .
 </h6>
+
+![](https://komarev.com/ghpvc/?username=ConsCXius&color=6a040F&style=flat-square$label= + )
