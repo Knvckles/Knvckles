@@ -7,10 +7,8 @@ Knuckles the Echidna.
 </h4>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/73575143-bebc-416c-a945-6d3458454263">
+    <img src="https://github.com/user-attachments/assets/73575143-bebc-416c-a945-6d3458454263"> ![](https://komarev.com/ghpvc/?username=ConsCXius&color=d60d02&style=flat-square&label=_!_)
 </p>
-
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=d60d02&style=flat-square&label=_!_)
 
 <h4 align="center">
 Angel Island ..
