@@ -37,6 +37,3 @@ sharp(Buffer.from(svg))
                     fs.writeFile('out.jpg', outputBuffer, function (err) { });
                 }).catch((e) => console.log(e));
         }).catch((e) => console.log(e));
-
-
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=d60d02&style=flat-square&label=_!_)
